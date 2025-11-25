@@ -69,7 +69,7 @@ Asteroid\_Dodger\_RL/
 
 Ensure you have Python installed. Clone the repository and install dependencies:
 
-git clone https://github.com/harshiit-rana/Dual-RL-Agent-in-Asteroid-Dodger-Game
+git clone https://github.com/Harsh-Yadav-664/AI-ML-Projects/tree/main/Dual%20RL%20Agent%20Asteroid%20Dodger%20Game
 cd asteroid-dodger-rl  
 pip install \-r requirements.txt
 
@@ -98,4 +98,5 @@ To run training:
 
 python main.py  
 \# Select Option 1  
+
 
