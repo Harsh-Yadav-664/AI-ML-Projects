@@ -22,7 +22,7 @@ The result is an automated **curriculum learning** system where the environment 
 
 ## **🖼️ Gameplay Demo**
 
-*(Place a gameplay GIF or screenshot here)*
+<img width="1113" height="869" alt="image" src="https://github.com/user-attachments/assets/76f0316b-389b-42b7-86b1-ceea6f299fb7" />
 
 *The agent maneuvering through a dense asteroid field using its learned policy.*
 
@@ -98,3 +98,4 @@ To run training:
 
 python main.py  
 \# Select Option 1  
+
